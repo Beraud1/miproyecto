@@ -13,3 +13,10 @@ class Sonido():
         pass
     def fourier(self):
         pass
+class Diversion():
+    def videojuego(self):
+        pass
+    def pelicula(self):
+        pass
+    def videoblog(self):
+        pass
